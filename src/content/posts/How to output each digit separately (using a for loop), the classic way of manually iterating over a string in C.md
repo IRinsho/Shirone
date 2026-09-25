@@ -1,5 +1,6 @@
-------
+---
 title: 如何实现把每一位上的数独立输出出来（for循环）既 C 语言中手动遍历字符串的经典写法
+name: IRinsho
 published: 2026-09-23
 description: C语言练习
 tags:
@@ -7,9 +8,7 @@ tags:
 category: 练习
 lang: zh_CN
 draft: false
-name: IRinsho
-------
-
+---
 
 案例代码
 
