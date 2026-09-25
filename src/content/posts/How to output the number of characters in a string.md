@@ -1,12 +1,13 @@
 ---
 title: 如何输出字符串位数
+published: 2026-09-23
+description: C语言练习
 tags:
   - 笔记
-version: alpha
+category: 练习
 lang: zh_CN
-updated: 2026-09-24
+draft: false
 ---
-
 
 案例代码
 ![Pasted image 20260922161730](https://myblog-1329557458.cos.ap-hongkong.myqcloud.com/imagees/Pasted%20image%2020260922161730.png)这段代码中  ![Pasted image 20260922162223](https://myblog-1329557458.cos.ap-hongkong.myqcloud.com/imagees/Pasted%20image%2020260922162223.png)这里是通过 “char”去定义字符数组，str代指字符，str[]代指存放字符的大小，图片里![Pasted image 20260922162448](https://myblog-1329557458.cos.ap-hongkong.myqcloud.com/imagees/Pasted%20image%2020260922162448.png)指最多储存99个字符。
