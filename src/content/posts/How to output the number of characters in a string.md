@@ -1,5 +1,6 @@
 ---
 title: 如何输出字符串位数
+name: IRinsho
 published: 2026-09-23
 description: C语言练习
 tags:
@@ -7,7 +8,6 @@ tags:
 category: 练习
 lang: zh_CN
 draft: false
-name: IRinsho
 ---
 
 案例代码
